@@ -122,6 +122,16 @@ main{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+/*--sponsors section-->*/
+.sponsors{
+    text-align: center;
+}
+.sponsors-img-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
 
 
 
